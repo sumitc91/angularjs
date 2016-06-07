@@ -1,14 +1,14 @@
 {
-  "name": "AccioCode AngularJS Tutorial",
+  "name": "SumitBest AngularJS Tutorial",
   "version": "1.0.0",
   "homepage": "https://github.com/colorfest/angularjs",
   "authors": [
-    "AccioCode"
+    "SumitBest"
   ],
-  "description": "AccioCode tutorial series for AngularJS",
+  "description": "SumitBest tutorial series for AngularJS",
   "main": "index.html",
   "keywords": [
-    "acciocode",
+    "sumitbest",
     "angularjs",
     "grunt",
     "bower",
